@@ -1,2 +1,2 @@
-# vqe_qosf_task4
+# Variational Quantum Eigensolver from Scratch
 QOSF Mentorship Application - Task 4 VQE
